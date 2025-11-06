@@ -1,0 +1,16 @@
+# caches, editor temp files, big stuff, secrets
+**/Cache/
+**/cache/
+*.swp
+*~
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+dist/
+*.log
+# secrets
+.ssh/
+*.pem
+*.key
+.env
