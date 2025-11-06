@@ -7,7 +7,7 @@ This repository serves as my **portable Linux environment**, allowing me to rein
 
 ### 🌱 About
 
-This project is my rolling Hyprland configuration. Every tweak, package, and script I use is version-controlled here, building toward a full system that I can restore instantly after a clean Arch install.
+This project is my rolling Hyprland configuration. Every tweak, package, and script I use is version-controlled here, building toward a full system that I can restore instantly after a clean Arch install. So do with it as you will.
 
 Think of it as my own reproducible Linux environment: same look, same workflow, zero setup hassle.
 
